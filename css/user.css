@@ -1,0 +1,39 @@
+.form-control {
+  background-color: #f2f2f2;
+  font-size: 16px;
+  border: none;
+  border-radius: 0;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.form-control[disabled] {
+  background-color: #e6e6e6;
+  color: #666;
+}
+.container {
+  display: flex;
+
+  margin-top: 100px;
+  margin-left: 170px !important;
+  margin-right: 100px !important;
+}
+.container input {
+  width: 400px;
+}
+
+.input_product {
+  flex: 1;
+  margin-right: 20px;
+}
+
+
+.product_info {
+  flex: 1;
+}
+
+.btn {
+  margin-bottom: 10px !important;
+}
+
+

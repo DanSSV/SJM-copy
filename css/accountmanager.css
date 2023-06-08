@@ -1,0 +1,14 @@
+
+.navbar {
+  background-color: rgb(36, 131, 19) !important;
+}
+
+.container {
+  width: 900px;
+}
+.table-responsive {
+  margin-top: 20px;
+}
+.container {
+  margin-top: 50px !important;
+}

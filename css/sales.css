@@ -1,0 +1,16 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.col button.btn-secondary {
+  margin: 50px;
+  border-radius: 5px;
+}
+
+.navbar {
+  background-color: rgb(36, 131, 19) !important;
+}
+
+
+
